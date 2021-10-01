@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome To The Swirlverse!
+A metaverse where things are swirly dirly. Not at is all it seems, though.
 
-You can use the [editor on GitHub](https://github.com/Syth/swirlverse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Mint a Swirlpunk
+You can mint a Swirlpunk here at [OpenSea](https://opensea.io/collection/swirlverse). Each Swirlpunk cost 0.005 $ETH. THe first 5 Swirlpunks are below for your viewing pleasure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Syth/swirlverse/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://lh3.googleusercontent.com/-O4pKO-bgW1KnzT42cvGftfXrVNdEH41pDsURmVAd6EOZp-eCNfIg5UDV8pnAX2AW9plZju-KddwuaXKBOXRayrky-SMsZRHnGuHmA=w600)
+![Image](https://lh3.googleusercontent.com/Wxn6MGJq5FI5pRq_JPCxVvYnI6Pa4t9nACMBBqpRq3Nw3Op95FLjP3odDtR-QsnyLX1Z--GMxwVzuyS82JAvxtQZKbYkfielHjoNEA=w600)
+![Image](https://lh3.googleusercontent.com/_HT6ggWbnlkRDHJ7AQzf4CX9iae1vB7Fa7D6QdIveSlrGtt6Ulqta7DbqcdgEcUG0V2IsD3_aLkoz_xpWCnCz__bVDxCBzDqWNqjRA=w600)
+![Image](https://lh3.googleusercontent.com/5w1qldwjwx50OrJ11bjtylHPwMVRvDy5TRrjYGXh8ZV54CshfKgRBaTwNr74YePWoUQ5M98zhUZKUht0nyq0RnwRuy_n7uhECbna=w600)
+![Image](https://lh3.googleusercontent.com/hnI79FM6_8WoMSmNQ9pcTjI_v8ELxU7kS2LicyAXB6I_gEreC2ENzFj3XYGRlVpoQy7KV1C1xOmVmiVBHKJNZLnJzBqYMOUS1QahYA=w600)
